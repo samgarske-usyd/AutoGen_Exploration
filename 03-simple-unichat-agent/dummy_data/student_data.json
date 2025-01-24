@@ -1,0 +1,17 @@
+{
+    "101": {
+        "name": "John Doe",
+        "email": "john.doe@uni.sydney.edu.au",
+        "courses": ["ENGG2112", "MECH1560", "MATH1903", "COMP2000"]
+    },
+    "111": {
+        "name": "Jane Smith",
+        "email": "jane.smith@uni.sydney.edu.au",
+        "courses": ["Biology", "English", "History"]
+    },
+    "123": {
+        "name": "Alice Johnson",
+        "email": "alice.johnson@uni.sydney.edu.au",
+        "courses": ["Math", "Computer Science", "Art"]
+    }
+}
